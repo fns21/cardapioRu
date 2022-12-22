@@ -1,0 +1,41 @@
+# Tema "MAGENTA" tipo console para o Dialog.
+
+# screen
+use_shadow   = OFF
+use_colors   = ON
+screen_color = (WHITE,MAGENTA,ON)
+# box
+dialog_color = (MAGENTA,WHITE,ON)
+title_color  = (BLACK,WHITE,ON)
+border_color = (BLACK,WHITE,ON)
+# button
+button_active_color         = (WHITE,MAGENTA,OFF)
+button_inactive_color       = (WHITE,WHITE,OFF)
+button_key_active_color     = (WHITE,MAGENTA,OFF)
+button_key_inactive_color   = (WHITE,MAGENTA,OFF)
+button_label_active_color   = (WHITE,MAGENTA,OFF)
+button_label_inactive_color = (MAGENTA,WHITE,OFF)
+# input
+inputbox_color        = (MAGENTA,WHITE,ON)
+inputbox_border_color = (MAGENTA,WHITE,ON)
+# textbox
+searchbox_color          = (MAGENTA,WHITE,ON)
+searchbox_title_color    = (MAGENTA,WHITE,OFF)
+searchbox_border_color   = (MAGENTA,WHITE,OFF)
+position_indicator_color = (WHITE,MAGENTA,OFF)
+# Menu box
+menubox_color          = (MAGENTA,WHITE,OFF)
+menubox_border_color   = (MAGENTA,WHITE,OFF)
+# Menu window
+item_color             = (MAGENTA,WHITE,OFF)
+item_selected_color    = (WHITE,MAGENTA,OFF)
+tag_color              = (MAGENTA,WHITE,OFF)
+tag_selected_color     = (WHITE,MAGENTA,OFF)
+tag_key_color          = (MAGENTA,WHITE,OFF)
+tag_key_selected_color = (WHITE,MAGENTA,OFF)
+check_color            = (MAGENTA,WHITE,OFF)
+check_selected_color   = (WHITE,MAGENTA,OFF)
+uarrow_color           = (MAGENTA,WHITE,ON)
+darrow_color           = (MAGENTA,WHITE,ON)
+# Menu item help
+itemhelp_color         = (MAGENTA,WHITE,ON)

@@ -1,0 +1,8 @@
+COMO EXECUTAR:
+sudo apt install lynx
+
+./cardapio.sh
+
+talvez precise de chmod 700, n lembro '-'
+
+by reidobash
