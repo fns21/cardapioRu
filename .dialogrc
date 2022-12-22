@@ -17,15 +17,15 @@ button_label_active_color   = (WHITE,MAGENTA,OFF)
 button_label_inactive_color = (MAGENTA,WHITE,OFF)
 # input
 inputbox_color        = (MAGENTA,WHITE,ON)
-inputbox_border_color = (MAGENTA,WHITE,ON)
+inputbox_border_color = (BLACK,WHITE,ON)
 # textbox
 searchbox_color          = (MAGENTA,WHITE,ON)
-searchbox_title_color    = (MAGENTA,WHITE,OFF)
-searchbox_border_color   = (MAGENTA,WHITE,OFF)
+searchbox_title_color    = (BLACK,WHITE,ON)
+searchbox_border_color   = (BLACK,WHITE,ON)
 position_indicator_color = (WHITE,MAGENTA,OFF)
 # Menu box
 menubox_color          = (MAGENTA,WHITE,OFF)
-menubox_border_color   = (MAGENTA,WHITE,OFF)
+menubox_border_color   = (BLACK,WHITE,ON)
 # Menu window
 item_color             = (MAGENTA,WHITE,OFF)
 item_selected_color    = (WHITE,MAGENTA,OFF)
