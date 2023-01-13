@@ -22,7 +22,6 @@ CHOICE=$(dialog --clear \
                 "${OPTIONS[@]}" \
                 2>&1 >/dev/tty)
 
-clear
 case $CHOICE in
         1)
             FILE=$(lynx --dump https://pra.ufpr.br/ru/ru-central/)
