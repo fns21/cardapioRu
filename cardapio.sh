@@ -1,6 +1,8 @@
 #!/bin/bash
 
-mv .dialogrc $HOME
+if test -f ./.dialogrc; then
+        mv .dialogrc $HOME
+fi
 
 HEIGHT=15
 WIDTH=40
